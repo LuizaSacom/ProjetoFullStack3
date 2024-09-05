@@ -1,0 +1,134 @@
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-05T12:32:21.706Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-05T12:32:22.148Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-05T12:38:45.145Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-05T12:38:45.529Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-05T12:42:16.638Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-05T12:42:17.359Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  '5': {
+    _id: new ObjectId('66d634c69e325ff62292b90d'),
+    name: 'adaga',
+    category: 'aaaaa',
+    createdAt: 2024-09-02T21:57:26.766Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-05T12:42:53.055Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-05T13:14:27.107Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-05T13:14:27.800Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  '5': {
+    _id: new ObjectId('66d634c69e325ff62292b90d'),
+    name: 'adaga',
+    category: 'aaaaa',
+    createdAt: 2024-09-02T21:57:26.766Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-05T13:15:11.273Z'
+}
