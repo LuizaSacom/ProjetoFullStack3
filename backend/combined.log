@@ -132,3 +132,583 @@
   message: 'Dados recuperados:',
   timestamp: '2024-09-05T13:15:11.273Z'
 }
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T19:55:12.787Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T19:55:13.189Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-09T19:57:24.909Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T19:58:18.367Z'
+}
+{
+  level: 'error',
+  message: 'Erro ao conectar ao MongoDB: option poolsize is not supported',
+  stack: 'MongoParseError: option poolsize is not supported\n' +
+    '    at parseOptions (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\connection_string.js:272:15)\n' +
+    '    at new MongoClient (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\mongoose\\node_modules\\mongodb\\lib\\mongo_client.js:51:63)\n' +
+    '    at NativeConnection.createClient (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\connection.js:306:14)\n' +
+    '    at NativeConnection.openUri (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\mongoose\\lib\\connection.js:823:34)\n' +
+    '    at Mongoose.connect (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\mongoose\\lib\\mongoose.js:447:15)\n' +
+    '    at Object.<anonymous> (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\server.js:33:10)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1208:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1024:12)',
+  timestamp: '2024-09-09T19:58:18.373Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T19:59:28.827Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T19:59:29.306Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-09T20:01:37.582Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-09T20:01:43.843Z'
+}
+{
+  '$__': InternalCache {
+    activePaths: ctor {
+      paths: { category: 'require', name: 'require' },
+      states: {
+        require: { category: true, name: true },
+        default: {},
+        modify: {}
+      },
+      map: [Function (anonymous)]
+    },
+    op: null,
+    saving: null,
+    '$versionError': null,
+    saveOptions: null,
+    validating: null,
+    validationError: undefined,
+    cachedRequired: {},
+    backup: {
+      activePaths: {
+        modify: { name: true, category: true },
+        default: { _id: true, createdAt: true }
+      },
+      validationError: null,
+      errors: undefined
+    },
+    inserting: true,
+    savedState: {}
+  },
+  _doc: {
+    name: 'teste',
+    category: 'teste',
+    _id: new ObjectId('66df542b9c23b8fd9becc9db'),
+    createdAt: 2024-09-09T20:01:47.433Z,
+    __v: 0
+  },
+  '$errors': undefined,
+  '$isNew': false,
+  level: 'info',
+  message: 'Dados inseridos:',
+  timestamp: '2024-09-09T20:01:47.490Z'
+}
+{
+  level: 'info',
+  message: 'Dados deletados para o ID',
+  timestamp: '2024-09-09T20:01:49.293Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-09T20:03:22.567Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-09T20:03:35.416Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-09T20:03:45.847Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T20:06:56.561Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T20:06:56.940Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T20:08:56.940Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T20:08:57.320Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T20:13:35.052Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T20:13:35.627Z'
+}
+{
+  level: 'error',
+  message: 'Erro ao recuperar dados: The client is closed',
+  stack: 'Error: The client is closed\n' +
+    '    at Commander._RedisClient_sendCommand (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:520:31)\n' +
+    '    at Commander.commandsExecutor (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:190:154)\n' +
+    '    at BaseClass.<computed> [as get] (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\@redis\\client\\dist\\lib\\commander.js:8:29)\n' +
+    '    at C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\server.js:93:42\n' +
+    '    at Layer.handle [as handle_request] (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n' +
+    '    at next (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\express\\lib\\router\\route.js:149:13)\n' +
+    '    at C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\middleware\\authMiddleware.js:12:9\n' +
+    '    at C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\jsonwebtoken\\verify.js:261:12\n' +
+    '    at getSecret (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\jsonwebtoken\\verify.js:97:14)\n' +
+    '    at module.exports [as verify] (C:\\Users\\larii\\Desktop\\ProjetoFullStack3\\backend\\node_modules\\jsonwebtoken\\verify.js:101:10)',
+  timestamp: '2024-09-09T20:13:41.450Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T20:14:24.154Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T20:14:24.506Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-09T20:14:28.258Z'
+}
+{
+  '0': {
+    _id: new ObjectId('66cb9533e7324b35323504bf'),
+    name: 'Rathalos',
+    category: 'Monstro',
+    createdAt: 2024-08-25T20:33:55.023Z,
+    __v: 0
+  },
+  '1': {
+    _id: new ObjectId('66cb95f9e7324b35323504c1'),
+    name: 'Espada longa',
+    category: 'Arma',
+    createdAt: 2024-08-25T20:37:13.640Z,
+    __v: 0
+  },
+  '2': {
+    _id: new ObjectId('66cba8e3e7324b35323504cb'),
+    name: 'Jagras',
+    category: 'Monstro',
+    createdAt: 2024-08-25T21:57:55.512Z,
+    __v: 0
+  },
+  '3': {
+    _id: new ObjectId('66cbaa87e7324b35323504d3'),
+    name: 'Zinogre',
+    category: 'Monstro',
+    createdAt: 2024-08-25T22:04:55.210Z,
+    __v: 0
+  },
+  '4': {
+    _id: new ObjectId('66d1c1965f33027989ef0ffa'),
+    name: 'Apceros',
+    category: 'Monstro',
+    createdAt: 2024-08-30T12:56:54.641Z,
+    __v: 0
+  },
+  level: 'info',
+  message: 'Dados recuperados:',
+  timestamp: '2024-09-09T20:32:44.799Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T20:48:49.465Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T20:48:49.864Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T20:51:50.193Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T20:51:50.672Z'
+}
+{
+  message: 'Dados recuperados do banco de dados e armazenados no cache.',
+  level: 'info',
+  timestamp: '2024-09-09T20:51:58.535Z'
+}
+{
+  message: 'Servidor HTTPS rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T21:23:19.581Z'
+}
+{
+  message: 'Servidor HTTP rodando na porta 8080',
+  level: 'info',
+  timestamp: '2024-09-09T21:23:19.585Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T21:23:19.997Z'
+}
+{
+  message: 'Servidor rodando em HTTPS na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T21:27:07.844Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T21:27:08.272Z'
+}
+{
+  message: 'Servidor rodando em HTTPS na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T21:29:44.675Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T21:29:45.113Z'
+}
+{
+  message: 'Servidor rodando em HTTPS na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T21:35:34.664Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T21:35:35.022Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T21:40:28.993Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T21:40:29.401Z'
+}
+{
+  message: 'Dados retornados do cache.',
+  level: 'info',
+  timestamp: '2024-09-09T21:40:50.735Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T22:04:51.097Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T22:04:51.727Z'
+}
+{
+  message: 'Dados recuperados do banco de dados e armazenados no cache.',
+  level: 'info',
+  timestamp: '2024-09-09T22:05:34.732Z'
+}
+{
+  message: 'Servidor rodando na porta 5000',
+  level: 'info',
+  timestamp: '2024-09-09T22:09:58.177Z'
+}
+{
+  message: 'Conectado ao MongoDB',
+  level: 'info',
+  timestamp: '2024-09-09T22:09:58.702Z'
+}
+{
+  message: 'Dados retornados do cache.',
+  level: 'info',
+  timestamp: '2024-09-09T22:10:22.708Z'
+}
