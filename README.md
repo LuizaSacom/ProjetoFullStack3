@@ -18,18 +18,27 @@ Além disso, o projeto utiliza Redis para cache e otimização de consultas, gar
 **🗂️ Requisitos Implementados e Medidas de Segurança**
 
 O sistema foi desenvolvido com foco em segurança e qualidade, incluindo:
-Verificação e Validação de Campos – Implementada com express-validator.
-Proteção contra vulnerabilidades (XSS) – Utilização do helmet.
-Prevenção de Ataques Automatizados – RateLimiter configurado para 100 requisições por IP a cada 15 minutos.
-Registro e Monitoramento de Logs – Implementação de Winston para observabilidade.
-Compressão de Respostas HTTP – Middleware compression para melhor desempenho.
-Conexão Segura (HTTPS) – Configuração com certificados SSL.
-Cache com Redis – Acelera respostas e reduz carga no banco.
-Pool de Conexões com Mongoose – Melhora o gerenciamento e desempenho das conexões com o banco de dados.
+
+Verificação e Validação de Campos: Implementada com express-validator.
+
+Proteção contra vulnerabilidades (XSS): Utilização do helmet.
+
+Prevenção de Ataques Automatizados: RateLimiter configurado para 100 requisições por IP a cada 15 minutos.
+
+Registro e Monitoramento de Logs: Implementação de Winston para observabilidade.
+
+Compressão de Respostas HTTP: Middleware compression para melhor desempenho.
+
+Conexão Segura (HTTPS): Configuração com certificados SSL.
+
+Cache com Redis: Acelera respostas e reduz carga no banco.
+
+Pool de Conexões com Mongoose: Melhora o gerenciamento e desempenho das conexões com o banco de dados.
 
 **🤖 Tecnologias Utilizadas**
 
 Front-End: React, React Router DOM, Material UI (MUI), Emotion (Styled e React), Testing Library (React e User Event), Web Vitals
+
 Back-End: Express, Mongoose, MongoDB, Helmet, Express-Validator, Compression, CORS, Body-Parser, Dotenv, JWT, BCryptJS, Express-Rate-Limit, Redis, Winston, HTTPS
 
 **🌏 API Externa**
