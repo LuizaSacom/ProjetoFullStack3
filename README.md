@@ -45,6 +45,10 @@ Back-End: Express, Mongoose, MongoDB, Helmet, Express-Validator, Compression, CO
 
 O projeto integra a API externa [Monster Hunter World Database API](https://docs.mhw-db.com/), que fornece todas as informações sobre os componentes e elementos do universo do jogo.
 
+**🧠 Desenvolvido por**
+
+Luiza Matilha Sacom e Larissa Iovanovich Ribeiro
+
 ---
 
 **📸 Print da Aplicação**
